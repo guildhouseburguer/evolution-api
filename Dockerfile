@@ -1,2 +1,2 @@
-FROM atendai/evolution-api:v1.8.0
+FROM ghcr.io/evolution-api/evolution-api:v2.1.1
 EXPOSE 8080
